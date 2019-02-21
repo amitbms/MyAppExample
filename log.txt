@@ -1,1 +1,2 @@
-NSLOg("Log text")
+NSLog("Log text")
+NSLog("Log Textdcd")
